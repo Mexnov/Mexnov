@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mexnov
-- 👀 I’m interested in Vr, game development, Java
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on micro electronics
+- 👋 Hi, I’m Alex Horne
+- 👀 I’m interested in Vr, ML, Java ,Python
+-I’m a Full Stack Developer at Digital Ops with hands-on experience building AI-powered applications, including secure, document-aware chatbots for the legal industry.
+My work blends backend development, tool integration, and advanced data retrieval systems using technologies like Python, OCR, LLMs, and Docker.
 - 📫 How to reach me Email me at alex.1822horne@gmail.com
 
 <!---
